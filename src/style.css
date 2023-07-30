@@ -79,3 +79,18 @@ p{
 .socials{
     padding-bottom: 200px;
 }
+.LOGO{
+    height: 1px;
+    margin:  10px;
+}
+.social{
+    margin: 20px
+}
+.sub-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+}
+h2{
+    font-size: 70px;
+}
